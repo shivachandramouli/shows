@@ -1,0 +1,7 @@
+{
+    "hostname": "us-cdbr-iron-east-05.cleardb.net",
+    "user": "b6a77a25f86827",
+    "password": "9ddb2115",
+    "database": "heroku_bcc7f843bf4db4c",
+    "encoding": "utf8mb4"
+}
